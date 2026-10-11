@@ -1,3 +1,2 @@
 #!/usr/bin/env bash
-
-PAGE_MESSAGE="Built by the L05 shell script."
+PAGE_MESSAGE="Welcome to our beginner workshop!"
